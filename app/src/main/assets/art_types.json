@@ -1,0 +1,95 @@
+ [
+        {
+            "name": "Painting",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Mona_Lisa.jpg/1200px-The_Mona_Lisa.jpg"
+        },
+        {
+            "name": "Sculpture",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/David_%28Michelangelo%29_%28cropped%29.jpg/1200px-David_%28Michelangelo%29_%28cropped%29.jpg"
+        },
+        {
+            "name": "Photography",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Taj_Mahal.jpg/1200px-The_Taj_Mahal.jpg"
+        },
+        {
+            "name": "Architecture",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Notre-Dame_de_Paris_Panorama.jpg/1200px-Notre-Dame_de_Paris_Panorama.jpg"
+        },
+        {
+            "name": "Music",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beethoven_Symphony_No.9_score.jpg/1200px-Beethoven_Symphony_No.9_score.jpg"
+        },
+        {
+            "name": "Literature",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hamlet_First_folio.jpg/1200px-Hamlet_First_folio.jpg"
+        },
+        {
+            "name": "Dance",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vaslav_Nijinsky_in_Le_Sacre_du_Printemps.jpg/1200px-Vaslav_Nijinsky_in_Le_Sacre_du_Printemps.jpg"
+        },
+        {
+            "name": "Film",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/The_Shawshank_Redemption_poster.jpg/1200px-The_Shawshank_Redemption_poster.jpg"
+        },
+        {
+            "name": "Performance art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Marina_Abramovic_-_Rhythm_0.jpg/1200px-Marina_Abramovic_-_Rhythm_0.jpg"
+        },
+        {
+            "name": "Comics",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Action_Comics_cover_1_1938.jpg/1200px-Action_Comics_cover_1_1938.jpg"
+        },
+        {
+            "name": "Graffiti",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Banksy_flower_thrower.jpg/1200px-Banksy_flower_thrower.jpg"
+        },
+        {
+            "name": "Ceramics",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ritual_vase_from_Greece.jpg/1200px-Ritual_vase_from_Greece.jpg"
+        },
+        {
+            "name": "Textile art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tie-dye_fabric_swatch.jpg/1200px-Tie-dye_fabric_swatch.jpg"
+        },
+        {
+            "name": "Glass art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Murrine_glass_vase.jpg/1200px-Murrine_glass_vase.jpg"
+        },
+        {
+            "name": "Wood carving",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wood_carving_of_a_lion.jpg/1200px-Wood_carving_of_a_lion.jpg"
+        },
+        {
+            "name": "Metalwork",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Celtic_cross_in_Kildare.jpg/1200px-Celtic_cross_in_Kildare.jpg"
+        },
+        {
+            "name": "Paper art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Origami_crane.jpg/1200px-Origami_crane.jpg"
+        },
+        {
+            "name": "Digital art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mona_Lisa_%28pixel_art%29.png/1200px-Mona_Lisa_%28pixel_art%29.png"
+        },
+        {
+            "name": "Mixed media art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mixed_media_art_by_Suzanne_Henderson.jpg/1200px-Mixed_media_art_by_Suzanne_Henderson.jpg"
+        },
+        {
+            "name": "Land art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spiral_Jetty_%28by_Robert_Smithson%29_20200421.jpg/1200px-Spiral_Jetty_%28by_Robert_Smithson%29_20200421.jpg"
+        },
+        {
+            "name": "Performance art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yoko_Ono_Cutting_Piece_1965.jpg/1200px-Yoko_Ono_Cutting_Piece_1965.jpg"
+        },
+        {
+            "name": "Conceptual art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Marcel_Duchamp_Fountain.jpg/1200px-Marcel_Duchamp_Fountain.jpg"
+        },
+        {
+            "name": "Installation art",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Weather_Project_2003.jpg/1200px-The_Weather_Project_2003.jpg"
+        }
+    ]
+
